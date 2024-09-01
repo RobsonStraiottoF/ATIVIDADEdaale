@@ -1,5 +1,4 @@
 <?php
-// o grupo não decidiu oque cada um vai ficar portanto fiz uma qualquer que esteja haver com a api para demonstrar que sou capaz
 class Login {
     private $email;
     private $password;
